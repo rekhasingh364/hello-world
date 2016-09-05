@@ -1,0 +1,16 @@
+This is a new document , created to upload to my git repository.
+
+to-do list:
+==========
+
+$ mobile phone service -- battery charging problem
+
+$ finish Operations Research Assignment today
+
+$ Combinatorial Game Theory
+
+$ Edx Visualizing Data with Excel
+
+$ Coursera HTML5 CSS3 JS
+
+======================================================
