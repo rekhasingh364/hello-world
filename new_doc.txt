@@ -1,9 +1,13 @@
+Hi Rekha :)
+
 This is a new document , created to upload to my git repository.
 
 to-do list:
 ==========
 
 $ mobile phone service -- battery charging problem
+
+$ R-programming JHU - Coursera
 
 $ finish Operations Research Assignment today
 
